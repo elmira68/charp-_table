@@ -1,0 +1,16 @@
+C:\Users\eli\Desktop\charp _table\bin\Debug\net5.0\charp _table.exe
+C:\Users\eli\Desktop\charp _table\bin\Debug\net5.0\charp _table.deps.json
+C:\Users\eli\Desktop\charp _table\bin\Debug\net5.0\charp _table.runtimeconfig.json
+C:\Users\eli\Desktop\charp _table\bin\Debug\net5.0\charp _table.runtimeconfig.dev.json
+C:\Users\eli\Desktop\charp _table\bin\Debug\net5.0\charp _table.dll
+C:\Users\eli\Desktop\charp _table\bin\Debug\net5.0\ref\charp _table.dll
+C:\Users\eli\Desktop\charp _table\bin\Debug\net5.0\charp _table.pdb
+C:\Users\eli\Desktop\charp _table\obj\Debug\net5.0\charp _table.csproj.AssemblyReference.cache
+C:\Users\eli\Desktop\charp _table\obj\Debug\net5.0\charp _table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eli\Desktop\charp _table\obj\Debug\net5.0\charp _table.AssemblyInfoInputs.cache
+C:\Users\eli\Desktop\charp _table\obj\Debug\net5.0\charp _table.AssemblyInfo.cs
+C:\Users\eli\Desktop\charp _table\obj\Debug\net5.0\charp _table.csproj.CoreCompileInputs.cache
+C:\Users\eli\Desktop\charp _table\obj\Debug\net5.0\charp _table.dll
+C:\Users\eli\Desktop\charp _table\obj\Debug\net5.0\ref\charp _table.dll
+C:\Users\eli\Desktop\charp _table\obj\Debug\net5.0\charp _table.pdb
+C:\Users\eli\Desktop\charp _table\obj\Debug\net5.0\charp _table.genruntimeconfig.cache
